@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "419-4195468_fifa-club-world-cup-trophy-png-png-download-removebg-preview.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
